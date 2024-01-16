@@ -1,0 +1,79 @@
+img {
+    width: 100%;
+}
+body {
+    text-align: center;
+    background-color: rgb(14, 58, 202);
+    font-family: 'Roboto', sans-serif;
+}
+h1 {
+    margin: 0%;
+    text-align: left;
+}
+h2 {
+    margin: 0%;
+    text-align: left;
+}
+div {
+    background-color: white;
+    width: 50%;
+    margin-left: 25%;
+    display: flex;
+}
+span {
+    text-align: right;
+}
+.titulo {
+}
+.html5 {
+    margin-left: 0%;
+    width: 10%;
+}
+.fa-html5 {
+    font-size: 45px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.rigoberto {
+    margin-left: 0%;
+    width: 80%;
+    display: block;
+}
+.fa-ellipsis-v {
+    font-weight: 900;
+    font-size: 45px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.puntos {
+    margin-left: 0%;
+    width: 10%;
+}
+.icon {
+    margin-left: 0%;
+    width: 90%;
+}
+.fa-heart {
+    font-size: 45px;
+    padding: 1%;
+}
+.fa-comment {
+    font-size: 45px;
+    padding: 1%;
+}
+.fa-paper-plane {
+    font-size: 45px;
+    padding: 1%;
+
+}
+.guardar {
+    margin-left: 0%;
+    width: 10%;
+    margin-top: 0.5%;
+    padding-left: 20%;
+}
+.fa-bookmark {
+    font-size: 45px;
+    padding: 1%;
+    align-items: end;
+}
